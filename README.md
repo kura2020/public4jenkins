@@ -1,1 +1,1 @@
-# public4jenkins
+# public repository for jenkins
