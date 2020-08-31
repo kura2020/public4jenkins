@@ -1,1 +1,1 @@
-# public4jenkins
+# public for jenkins
