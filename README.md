@@ -1,1 +1,1 @@
-# public for jenkins
+# public repository for jenkins
